@@ -204,32 +204,6 @@ The forecast indicates continued demand growth during summer months, festivals, 
 
 ---
 
-## 📁 Project Structure
-
-```text
-ABC-IceCreams-Sales-Forecasting
-│
-├── data
-│   └── ABC_IceCream_Sales.csv
-│
-├── notebooks
-│   └── ABC_IceCreams_Project.ipynb
-│
-├── images
-│   ├── monthly_sales_trend.png
-│   ├── seasonal_sales_comparison.png
-│   ├── temperature_vs_sales.png
-│   ├── correlation_heatmap.png
-│   └── sales_forecast_2026.png
-│
-├── reports
-│   └── Project_Report.pdf
-│
-└── README.md
-```
-
----
-
 ## 📊 Key Results
 
 | Metric                 | Finding                 |
