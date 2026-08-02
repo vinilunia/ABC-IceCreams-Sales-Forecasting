@@ -229,5 +229,4 @@ This project demonstrates how Business Intelligence, Data Analytics, and Machine
 B.Sc. Data Science Student
 
 📊 Data Analytics | 📈 Business Intelligence | 🤖 Machine Learning | 🔮 Predictive Analytics
-* GitHub: [Add Your GitHub Profile Link]
-* LinkedIn: [Add Your LinkedIn Profile Link]
+* LinkedIn: www.linkedin.com/in/vini-lunia-2671ba28b
